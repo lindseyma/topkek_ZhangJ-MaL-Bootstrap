@@ -59,9 +59,7 @@
       </div>
     </div>
     
-	<div class="col-xs-12 col-sm-6">
-	  <img src="http://www.w3schools.com/css/lights600x400.jpg" class="img-responsive">
-	  </div>
+    
     <div class="alert alert-success" role="alert">
         <strong>Well done!</strong> You successfully read this important alert message.
       </div>
