@@ -32,7 +32,7 @@
         <div class="row">
           <div class="large-12 columns">
             <div class="primary callout">
-              <p style="font-size:70px;">Buy a quart of whole milk and add water until you have a gallon of skim</p>
+              <p>Each list has two parts: the first element and the rest of the list!</p>
             </div>
           </div>
         </div>
@@ -128,9 +128,6 @@
       </div>
 
       <div class="large-4 medium-4 columns">
-	<h5 style="font-size:150px;"> just kidding don't do that</h5>
-      </div><br>
-      <div class="large-8 medium-4 columns">
         <h5>Try one of these buttons:</h5>
         <p><a href="https://racket-lang.org/" class="button">Racket Library</a><br/>
           <a href="https://en.wikipedia.org/wiki/Barbecue_sauce" class="success button">Interesting read</a><br/>
